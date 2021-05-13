@@ -1,0 +1,94 @@
+*{
+    font-size: 13px;
+}
+
+.asterisk {
+    color: red;
+}
+
+#title {
+    font-size: 26px;
+    font-weight: 600;
+}
+
+#name,
+#roll,
+#GenderP,
+#program,
+#email,
+#image,
+#password,
+#confirm_password {
+    font-size: 18px;
+}
+
+#name input,
+#GenderP input,
+#roll input #program input,
+#email input,
+#image input,
+#password input,
+#confirm_password input {
+    font-size: 15px;
+    padding: 2px 12px;
+}
+
+
+#name input {
+    margin-left: 10px;
+}
+
+#GenderP input {
+    padding: 4px 9px;
+    margin-left: 5px;
+}
+
+#roll input {
+    margin-left: 41px;
+    font-size: 15px;
+    padding: 4px 9px;
+}
+
+#password input {
+    margin-left: 65px;
+    font-size: 15px;
+    padding: 4px 9px;
+}
+
+
+select {
+    font-size: 15px;
+    width: 215px;
+    padding: 4px 9px;
+}
+
+#email input {
+    margin-left: 19px;
+    font-size: 15px;
+    padding: 4px 9px;
+}
+
+#image input {
+    margin-left: 24px;
+    font-size: 15px;
+    padding: 4px 9px;
+}
+
+#confirm_password input {
+    font-size: 15px;
+    padding: 2px 12px;
+}
+
+#GenderP span {
+    font-size: 17px;
+}
+
+#displayInfo {
+    width: 40%;
+    margin:20px;
+    height: 50px;
+    border: 1px solid black;
+    text-align: center;
+    font-size: 22px;
+    padding: 30px 0px;
+}

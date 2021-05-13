@@ -1,0 +1,33 @@
+#loginForm{
+    margin: 50px 100px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+#loginTitle{
+    font-size: 29px;
+    font-weight: 600;
+    color: rgb(40, 110, 190);
+}
+
+.section{
+  font-size: 20px;
+}
+
+.section input{
+    position: absolute;
+    left: 205px;
+    padding: 3px 10px;
+    font-size: 15px;
+    border-radius: 6px;
+    border: 1px solid gray;
+}
+
+ #Btn{
+    font-size: 15px;
+    padding: 3px 10px;
+    border-radius: 6px;
+    background-color:rgb(42, 164, 212);
+    color: white;
+    font-weight: 500;
+}
+
